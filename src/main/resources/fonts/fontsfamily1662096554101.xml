@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Helvetica">
+		<normal><![CDATA[fonts/Helvetica/Helvetica.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Microsoft YaHei">
+		<normal><![CDATA[fonts/Microsoft YaHei/msyh.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontSet name="SeeMsyhSet">
+		<family familyName="Helvetica" primary="true">
+			<excludedScript><![CDATA[Han]]></excludedScript>
+		</family>
+		<family familyName="Microsoft YaHei">
+			<includedScript><![CDATA[Han]]></includedScript>
+		</family>
+	</fontSet>
+</fontFamilies>
