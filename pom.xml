@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.seeburger.webedi</groupId>
   <artifactId>fontset-msyh</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <name>fontset-msyh</name>
   <description>font set for jasper report, contain msyh and helvetica</description>
 </project>
